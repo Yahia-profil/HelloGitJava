@@ -1,0 +1,16 @@
+# Compiled class files
+out/
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
